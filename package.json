@@ -67,7 +67,7 @@
     "unplugin-element-plus": "^0.8.0",
     "unplugin-vue-components": "^0.25.2",
     "unplugin-vue-macros": "^2.6.1",
-    "vite": "^4.4.11",
+    "vite": "^4.5.3",
     "vite-plugin-inspect": "^0.7.40",
     "vite-plugin-pages": "^0.31.0",
     "vite-plugin-pwa": "^0.16.5",
